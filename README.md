@@ -31,4 +31,4 @@ All images and design elements are original.
 HAMOU MECHOU
 
 ## Figma Design
-https://www.figma.com/board/WcbSbaLx8R39k2dV2YPf1a/NutriLife-Website-Design?node-id=23-1550&t=r14vpbb4QTlHPMVp-1
+https://www.figma.com/board/WcbSbaLx8R39k2dV2YPf1a/NutriLife-Website-Design?node-id=23-1550&p=f&t=hvn6VB5miy188LQG-0
